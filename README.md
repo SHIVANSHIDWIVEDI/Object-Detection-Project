@@ -5,7 +5,7 @@
 2. [Requirements](#requirements)
 3. [Instructions](#instructions)
 4. [Code Breakdown](#code-breakdown)
-5. [License](#license)
+
 
 ## Description
 Object detection is a computer vision technique that involves locating instances of objects within images or videos. Machine learning (ML) plays a crucial role in object detection, as it enables algorithms to learn from large datasets and produce accurate results.
