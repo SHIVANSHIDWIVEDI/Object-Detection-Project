@@ -20,6 +20,8 @@ Object detection is a computer vision technique that involves locating instances
 
 This Python script leverages OpenCV and a pre-trained SSD MobileNet v3 deep learning model for real-time object detection in video streams. It utilizes the COCO (Common Objects in Context) dataset for object class recognition.
 
+This description gives potential users an overview of what the repository offers and how they can get started. 
+
 ## Requirements
 
 - Python 3.x ([Download](https://www.python.org/downloads/))
