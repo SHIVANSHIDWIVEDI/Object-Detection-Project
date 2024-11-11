@@ -12,9 +12,13 @@ Object detection is a computer vision technique that involves locating instances
 
 # Key Steps in an Object Detection Project : 
 #1. Data Preparation: Collect and preprocess a large dataset of labeled images or videos containing the objects of interest.
+
 #2. Model Selection: Choose a pre-trained object detection model, such as YOLO, CocoSSD, or MobileNet, or train a custom model using TensorFlow Lite.
+
 #3. Model Optimization: Optimize the model for on-device deployment, ensuring it runs efficiently on mobile devices or other constrained hardware.
+
 #4. Object Detection and Tracking: Use the optimized model to detect and track objects in real-time, either from images or live camera feeds.
+
 #5. Optional Classification: Classify detected objects into predefined categories using a coarse classifier or a custom image classification model.
 
 
